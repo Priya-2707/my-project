@@ -1,0 +1,11 @@
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    font-family:'Times New Roman',Times,serif;
+    font-size:20px;
+    background-color:rgb(89,206,221);
+}
+body{
+    background-color:rgb(219,143,156);
+    font-family: "Times New Roman";
+}
